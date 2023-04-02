@@ -10,14 +10,9 @@ export default sidebar([
     link: "",
     collapsible: true,
     children: [
-      //"Applist.md",
-      //"ChatGPT.md",
-      //"design.md",
-      //"AppNotes.md",
-      //"Chrome.md",
       {
         text: "心得",
-        icon: "load",
+        icon: "brain-arrow-curved-right",
         prefix: "reflections/",
         link: "",
         collapsible: true,
@@ -25,7 +20,7 @@ export default sidebar([
       },
       {
         text: "書摘",
-        icon: "load",
+        icon: "arrows-to-dot",
         prefix: "digests/",
         link: "",
         collapsible: true,
@@ -47,6 +42,72 @@ export default sidebar([
         collapsible: true,
         children: "structure",
       }
+    ],
+  },
+  {
+    text: "🧰 電影",
+    icon: "",
+    prefix: "/movies/",
+    link: "",
+    collapsible: true,
+    children: [
+      {
+        text: "紀錄片",
+        icon: "load",
+        prefix: "documentary/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+      {
+        text: "動畫片",
+        icon: "load",
+        prefix: "animation/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+      {
+        text: "科幻片",
+        icon: "load",
+        prefix: "sci-fi/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+      {
+        text: "個人五星",
+        icon: "load",
+        prefix: "self-5-star/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+      {
+        text: "個人四星",
+        icon: "load",
+        prefix: "self-4-star/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+      {
+        text: "個人三星",
+        icon: "load",
+        prefix: "self-3-star/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+      {
+        text: "影集",
+        icon: "load",
+        prefix: "drama/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      }
+
     ],
   },
   {
