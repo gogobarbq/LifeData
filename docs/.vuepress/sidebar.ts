@@ -78,7 +78,7 @@ export default sidebar([
       {
         text: "個人五星",
         icon: "load",
-        prefix: "self-5-star/",
+        prefix: "5-star/",
         link: "",
         collapsible: true,
         children: "structure",
@@ -86,7 +86,7 @@ export default sidebar([
       {
         text: "個人四星",
         icon: "load",
-        prefix: "self-4-star/",
+        prefix: "4-star/",
         link: "",
         collapsible: true,
         children: "structure",
@@ -94,7 +94,7 @@ export default sidebar([
       {
         text: "個人三星",
         icon: "load",
-        prefix: "self-3-star/",
+        prefix: "3-star/",
         link: "",
         collapsible: true,
         children: "structure",
