@@ -9,9 +9,9 @@ import theme from "./theme";
 
 export default defineUserConfig({
   // 网站语言，默认为中文
-  lang: "zh-CN",
+  lang: "zh-",
   // 网站标题
-  title: "LearnData-开源笔记",
+  title: "Kuan-寬筆記",
   // 网站描述
   description:
     "开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。",
