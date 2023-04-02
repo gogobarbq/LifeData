@@ -30,10 +30,59 @@ export default sidebar([
         link: "",
         collapsible: true,
         children: "structure",
+      },
+      {
+        text: "有聲書",
+        icon: "load",
+        prefix: "audio-books/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+      {
+        text: "心智圖",
+        icon: "load",
+        prefix: "mindmaps/",
+        link: "",
+        collapsible: true,
+        children: "structure",
       }
     ],
   },
-  "/DailyRoutine",
+  {
+    text: "🧰 課程",
+    icon: "",
+    prefix: "/courses/",
+    link: "",
+    collapsible: true,
+    children: [
+      {
+        text: "Coursera",
+        icon: "load",
+        prefix: "coursera/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+      {
+        text: "Moocs",
+        icon: "load",
+        prefix: "moocs/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+      {
+        text: "實體課",
+        icon: "load",
+        prefix: "offline-coursesß/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      }
+    ],
+  },
+  /* "/DailyRoutine",
   "/Fitness",
   // 读书笔记架构更换到 docsify，不能使用相对链接
   { text: "读书笔记", icon: "read", link: "https://newzone.top/reading/" },
@@ -129,5 +178,5 @@ export default sidebar([
     link: "/blog",
     collapsible: true,
     children: "structure",
-  },
+  }, */
 ]);
