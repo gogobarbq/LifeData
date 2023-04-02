@@ -4,7 +4,7 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar([
   // BBQ
   {
-    text: "🧰 閱讀",
+    text: "📚 閱讀",
     icon: "",
     prefix: "/readings/",
     link: "",
@@ -12,7 +12,7 @@ export default sidebar([
     children: [
       {
         text: "心得",
-        icon: "brain-arrow-curved-right",
+        icon: "brain",
         prefix: "reflections/",
         link: "",
         collapsible: true,
@@ -20,7 +20,7 @@ export default sidebar([
       },
       {
         text: "書摘",
-        icon: "arrows-to-dot",
+        icon: "book",
         prefix: "digests/",
         link: "",
         collapsible: true,
@@ -28,7 +28,7 @@ export default sidebar([
       },
       {
         text: "有聲書",
-        icon: "load",
+        icon: "ear",
         prefix: "audio-books/",
         link: "",
         collapsible: true,
@@ -36,7 +36,7 @@ export default sidebar([
       },
       {
         text: "心智圖",
-        icon: "load",
+        icon: "mind",
         prefix: "mindmaps/",
         link: "",
         collapsible: true,
@@ -45,7 +45,7 @@ export default sidebar([
     ],
   },
   {
-    text: "🧰 電影",
+    text: "🎦 電影",
     icon: "",
     prefix: "/movies/",
     link: "",
@@ -111,7 +111,7 @@ export default sidebar([
     ],
   },
   {
-    text: "🧰 課程",
+    text: "📕 課程",
     icon: "",
     prefix: "/courses/",
     link: "",
