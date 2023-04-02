@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>test BBQ&amp;apos;s note</description>
     <language>zh-TW</language>
-    <pubDate>Sun, 02 Apr 2023 12:57:59 GMT</pubDate>
-    <lastBuildDate>Sun, 02 Apr 2023 12:57:59 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Apr 2023 14:59:31 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Apr 2023 14:59:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 清顺</copyright>
@@ -16,22 +16,36 @@
       <url>https://newzone.top/logo.svg</url>
       <link>https://newzone.top/</link>
     </image>
+    <category>電影</category>
     <category>行銷</category>
     <category>工具</category>
     <category>自动化</category>
     <category>系统</category>
     <category>网络</category>
-    <category>服务器</category>
+    <item>
+      <title>墜｜Fall</title>
+      <link>https://newzone.top/movies/5-star/20221001-fall.html</link>
+      <guid>https://newzone.top/movies/5-star/20221001-fall.html</guid>
+      <source url="https://newzone.top/rss.xml">墜｜Fall</source>
+      <description>Fall</description>
+      <category>電影</category>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgysOV3Spl2ONIPIrvZK9xbmPHJNtVU92clXO2xf4nKWoJTdUYXvxoLbmVm-Vy_gscfhDtdRGsaPZ47oWBPMudsq4VFk2ZY06cEbzBZlxtso0_WbRBRpj8LprQC3kqO2z_grdGz6PdcQ-moyi2DaTThThFyokYtMW796439iQyFiK6Td9RPoUTF8fZq0g/s800/Xnip2022-10-02_10-26-59.jpg" alt="" tabindex="0" loading="lazy"><figcaption>Fall</figcaption></figure>
+<p>CY 大力推薦此片，他刷了三四遍，還先確認我有沒有懼高症。看完慶幸自己沒有錯過，差點以為這是驚悚鬼片而跳過。</p>
+<p>在進入心得前，先放一下我很愛的片尾曲。</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>買我:從大腦科學看花錢購物的真相與假象</title>
       <link>https://newzone.top/readings/digests/20140907-buyology.html</link>
       <guid>https://newzone.top/readings/digests/20140907-buyology.html</guid>
       <source url="https://newzone.top/rss.xml">買我:從大腦科學看花錢購物的真相與假象</source>
-      <description>本篇純書摘 人們在壓力下，往往做一套說一套。不用說，這點為市場研究領域招來災難，因為這個研究靠的就是精確又誠實的消費者。但我們的大腦有 85%的時間處於自動駕駛狀態，這並不是說我們故意說謊，只不過我們的潛意識比知覺意識更能解釋我們的行為，包括我們為什麼要買東西？ 我的廣告預算浪費了一半，麻煩的是，我不知道是哪一半 百事可樂好喝，市場為什麼還是輸給可口可樂？因為受試者與可口可樂有許多正面經驗的連結。例如歷史、商標、顏色設計和香味，他們童年回憶中的可口可樂，多年來可口可樂的電視與平面廣告，純粹、不容爭辯，不可阻擋，不可避免還有對可口可樂這個品牌的情愫，在在擊退他們理性中對百事可樂口味自然的偏好。為什麼？因為情感作用是大腦對價值的編碼方式，而佔據大腦情感層面的品牌每次都會大獲全勝。 大部分的大腦有自動程序主宰而非有意的思考，很多發生在大腦中的事是屬於感情層面而非認知層面。恐懼是最好的選戰訴求，掃描選民的杏仁體，對他們設計進行廣告很有幫助，操弄選民的恐懼是確保政治人物勝選的關鍵，有一天這些新工具可以幫我們不再依賴老掉牙的宣傳口號以及無法證實的古老諺語，而且將幫助我們把更多科學帶進政治科學領域。</description>
+      <description>笔记 + 文章 = LearnData 知识库</description>
       <category>行銷</category>
       <pubDate>Sun, 07 Sep 2014 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <img border="0" src="https://4.bp.blogspot.com/-FvnaWAgSJvQ/V3DkWQVQiII/AAAAAAAAaF0/6PQ67LSEsKc_gGAzSfJ3FdBfqqL7mOVTQCK4B/s400/buy.jpg"></div>
+<figure><img src="https://tc.seoipo.com/2022-08-22-19-28-25.png?imageMogr2/thumbnail/!80p" alt="" tabindex="0" loading="lazy"><figcaption>笔记 + 文章 = LearnData 知识库</figcaption></figure>
 <div class="alert-message warning">  
 <i class="fa fa-check-circle"></i> 本篇純書摘 </div>
 <ul>
@@ -409,31 +423,6 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
 </ol>
 ]]></content:encoded>
       <enclosure url="https://pic2.zhimg.com/v2-658d5433201b79da169a520f4b19d495_r.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>小型网站管理员，快放弃 CDN！</title>
-      <link>https://newzone.top/posts/2018-01-19-forget_the_cdn.html</link>
-      <guid>https://newzone.top/posts/2018-01-19-forget_the_cdn.html</guid>
-      <source url="https://newzone.top/rss.xml">小型网站管理员，快放弃 CDN！</source>
-      <description>CDN 的全称是 Content Delivery Network，即内容分发网络。其基本思路是尽可能避开互联网上有可能影响数据传输速度和稳定性的瓶颈和环节，使内容传输的更快、更稳定。通过在网络各处放置节点服务器所构成的在现有的互联网基础之上的一层智能虚拟网络，CDN 系统能够实时地根据网络流量和各节点的连接、负载状况以及到用户的距离和响应时间等综合信息将用户的请求重新导向离用户最近的服务节点上。其目的是使用户可就近取得所需内容，解决 Internet 网络拥挤的状况，提高用户访问网站的响应速度。 国内 CDN 有阿里云、腾讯、百度、网宿、七牛云、又拍云等。</description>
-      <category>服务器</category>
-      <pubDate>Fri, 19 Jan 2018 12:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p>CDN 的全称是 Content Delivery Network，即内容分发网络。其基本思路是尽可能避开互联网上有可能影响数据传输速度和稳定性的瓶颈和环节，使内容传输的更快、更稳定。通过在网络各处放置节点服务器所构成的在现有的互联网基础之上的一层智能虚拟网络，CDN 系统能够实时地根据网络流量和各节点的连接、负载状况以及到用户的距离和响应时间等综合信息将用户的请求重新导向离用户最近的服务节点上。其目的是使用户可就近取得所需内容，解决 Internet 网络拥挤的状况，提高用户访问网站的响应速度。</p>
-</blockquote>
-<p>国内 CDN 有阿里云、腾讯、百度、网宿、七牛云、又拍云等。</p>
-<p>这里以阿里云 CDN 为例。我之前使用阿里云全站 CDN，一直以为速度会加快。但命中率只有 7%，在更换为 ECS 后，命中率更降为 2%。</p>
-<p>更可怕的是，我提交工单后才得到的事实。<strong>CDN 运营商会根据 DNS 分配就近分配 CDN 节点，抓取网站缓存。</strong></p>
-<p>第一反应：「不错啊。如果网站在北京，访客在上海，直接访问上海的节点，速度必然要快一些。」</p>
-<p>但事实并没有这么完美。<strong>CDN 是根据本地 DNS 来分配节点。</strong></p>
-<p>你从上海放出访问申请，DNS 有可能帮你分配去广东的节点。极端情况下，有可能分配到不同运营商，<strong>导致无法打开网站。</strong></p>
-<p>我进行了三个测试，本地网络环境都是上海电信，更换了 DNS 设置。</p>
-<p>第一次测试使用 114DNS，分配了广州鹏博士网络，网站打不开。提交工单后，客服反映<strong>这个节点是局域网节点，只有鹏博士网络才能打开。</strong></p>
-<p>第二次测试使用电信默认 DNS，分配苏州电信，网站正常。</p>
-<p>第三次测试使用阿里云 DNS，分配杭州电信，网站正常</p>
-<p>后面两次虽然都能打开网站，但没有一个分配在上海电信，这种加速又能快多少呢？</p>
-<p>在网站<strong>配置足够、流量不大（日均访客 1000 以内）</strong> 时，不建议使用全站 CDN，这只会拖累访问体验。小网站只适合将图片部署在 CDN。</p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
