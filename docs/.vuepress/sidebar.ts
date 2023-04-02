@@ -2,6 +2,37 @@ import { sidebar } from "vuepress-theme-hope";
 
 // 精选图标：https://theme-hope.vuejs.press/zh/guide/interface/icon.html#iconfont-%E7%B2%BE%E9%80%89%E5%9B%BE%E6%A0%87
 export default sidebar([
+  // BBQ
+  {
+    text: "🧰 閱讀",
+    icon: "",
+    prefix: "/readings/",
+    link: "",
+    collapsible: true,
+    children: [
+      //"Applist.md",
+      //"ChatGPT.md",
+      //"design.md",
+      //"AppNotes.md",
+      //"Chrome.md",
+      {
+        text: "心得",
+        icon: "load",
+        prefix: "reflections/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+      {
+        text: "書摘",
+        icon: "load",
+        prefix: "digests/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      }
+    ],
+  },
   "/DailyRoutine",
   "/Fitness",
   // 读书笔记架构更换到 docsify，不能使用相对链接
