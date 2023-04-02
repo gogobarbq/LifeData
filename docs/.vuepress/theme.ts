@@ -8,8 +8,8 @@ export default hopeTheme({
   hostname: "https://newzone.top",
 
   author: {
-    name: "清顺",
-    url: "https://newzone.top",
+    name: "BBQ",
+    url: "https://gogobarbq.github.io",
   },
 
   iconAssets: "iconfont",
@@ -68,11 +68,13 @@ export default hopeTheme({
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-    name: "清顺",
+    name: "BBQ",
     avatar: "/avatar_self.webp",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+    description: "bbq's test", 
+    //"迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
     intro: "/intro.html",
     roundAvatar: true,
+    /*
     medias: {
       GitHub: "https://github.com/rockbenben",
       Zhihu: "https://www.zhihu.com/people/qingwhat",
@@ -85,6 +87,8 @@ export default hopeTheme({
       Discord: "https://discord.gg/PZTQfJ4GjX",
       RSS: "https://newzone.top/rss.xml",
     },
+    */
+    
   },
   // 开发模式下是否启动热更新，显示所有更改并重新渲染
   hotReload: true,
