@@ -1,3 +1,14 @@
+---
+title: 書摘|買我:從大腦科學看花錢購物的真相與假象
+date: 2014-09-07
+category:
+  - 行銷
+tag:
+  - 行銷
+  - 腦神經科學
+order: -54
+---
+
 <div class="separator" style="clear: both; text-align: center;">
 <img border="0" src="https://4.bp.blogspot.com/-FvnaWAgSJvQ/V3DkWQVQiII/AAAAAAAAaF0/6PQ67LSEsKc_gGAzSfJ3FdBfqqL7mOVTQCK4B/s400/buy.jpg"/></div>
 
@@ -44,10 +55,3 @@
 
 * 我們所有的感覺器官中，嗅覺是最原始最根深蒂固的一種，也是我們祖先用來開發食物口味、尋找伴侶並且憑直覺就知道敵人存在的工具，路徑直達大腦的邊緣系統。這一處控制情緒記憶與幸福感，因此我們的直覺反應瞬間就發生了，我們所有感覺器官都是經過思考後才有反應。
 
-<script>
-export default {
-    mounted () {
-      this.$page.lastUpdated = "2014/09/07 6 p.m:09:09";
-    }
-  }
-</script>
