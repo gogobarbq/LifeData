@@ -12,7 +12,7 @@ export default sidebar([
     children: [
       {
         text: "心得",
-        icon: "brain",
+        icon: "arrow",
         prefix: "reflections/",
         link: "",
         collapsible: true,
@@ -20,7 +20,7 @@ export default sidebar([
       },
       {
         text: "書摘",
-        icon: "book",
+        icon: "arrow",
         prefix: "digests/",
         link: "",
         collapsible: true,
@@ -28,7 +28,7 @@ export default sidebar([
       },
       {
         text: "有聲書",
-        icon: "ear",
+        icon: "arrow",
         prefix: "audio-books/",
         link: "",
         collapsible: true,
@@ -36,7 +36,7 @@ export default sidebar([
       },
       {
         text: "心智圖",
-        icon: "mind",
+        icon: "arrow",
         prefix: "mindmaps/",
         link: "",
         collapsible: true,
