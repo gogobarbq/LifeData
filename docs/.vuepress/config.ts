@@ -9,7 +9,7 @@ import theme from "./theme";
 
 export default defineUserConfig({
   // 网站语言，默认为中文
-  lang: "zh-",
+  lang: "zh-TW",
   // 网站标题
   title: "Kuan-寬筆記",
   // 网站描述
