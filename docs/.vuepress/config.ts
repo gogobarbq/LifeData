@@ -47,10 +47,10 @@ export default defineUserConfig({
     searchProPlugin({
       // 索引全部内容
       indexContent: true,
-    })
+    }),
     // 谷歌分析 ID
     ({
       id: "G-WSS8G8K4QD",
-    }),
+    })
   ],
 });
