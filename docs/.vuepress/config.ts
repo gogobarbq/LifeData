@@ -49,8 +49,8 @@ export default defineUserConfig({
       indexContent: true,
     })
     // 谷歌分析 ID
-    //googleAnalyticsPlugin({
-    //  id: "G-RWKZTY2P9R",
-    //}),
+    ({
+      id: "G-WSS8G8K4QD",
+    }),
   ],
 });
