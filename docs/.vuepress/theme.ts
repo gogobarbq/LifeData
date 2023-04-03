@@ -19,7 +19,7 @@ export default hopeTheme({
   breadcrumb: true,
 
   // 页面元数据：贡献者，最后修改时间，编辑链接
-  contributors: true,
+  contributors: false,
   lastUpdated: true,
   editLink: false,
 
@@ -122,7 +122,7 @@ export default hopeTheme({
           reaction3: "啥玩意",
           reaction4: "看不懂",
           // Waline 等级标签
-          admin: "盛年不重来，一日难再晨",
+          admin: "BBQ",
           level0: "锻体",
           level1: "炼气",
           level2: "筑基",
