@@ -5,7 +5,7 @@ import sidebar from "./sidebar";
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  hostname: "https://newzone.top",
+  hostname: "https://gogobarbq.github.iop",
 
   author: {
     name: "BBQ",
@@ -21,7 +21,7 @@ export default hopeTheme({
   // 页面元数据：贡献者，最后修改时间，编辑链接
   contributors: false,
   lastUpdated: true,
-  editLink: true,
+  editLink: false,
 
   // 深色模式配置
   darkmode: "switch",
