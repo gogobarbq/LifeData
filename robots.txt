@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://gogobarbq.github.iop/sitemap.xml
+Sitemap: https://gogobarbq.github.iop/LifeData/sitemap.xml
